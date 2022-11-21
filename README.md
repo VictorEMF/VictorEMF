@@ -1,8 +1,8 @@
 <h2>Hello Guys! <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/679a4b9aec5310ab02000bd6fde8cc046bb4966339340f661846de2005eeee95/68747470733a2f2f646b726e34736b30726e3331762e636c6f756466726f6e742e6e65742f323031382f30352f32393037303435392f706978656c6172742d6f63746f6361742e676966"><img src="https://camo.githubusercontent.com/679a4b9aec5310ab02000bd6fde8cc046bb4966339340f661846de2005eeee95/68747470733a2f2f646b726e34736b30726e3331762e636c6f756466726f6e742e6e65742f323031382f30352f32393037303435392f706978656c6172742d6f63746f6361742e676966" width="50" data-canonical-src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" style="max-width:100%;"></a> </h2> 
 <h3>✨ About Me</h3>
 <ul>
-  <li>🖥️ I'm currently studying <strong> Information Systems </strong> and I'm looking to be a Back-end professional.</li>
-  <li>📃 Learning more about and studying: NodeJS, PHP and Laravel.</li>
+  <li>🖥️ I'm currently studying <strong> Information Systems </strong> and I'm looking to be a BI analyst professional.</li>
+  <li>📃 Learning more about and studying: ODI, SSIS.</li>
   <li>✉️ If you want reach me <a href="victoremanuel.mff@outlook.com">victoremanuel.mff@outlook.com</li>
 </ul>
 <br>
@@ -28,6 +28,7 @@
 <a href="https://git-scm.com/" rel="nofollow">
     <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;">
 </a>
+<img src="https://repository-images.githubusercontent.com/240076753/32a00780-916e-11ea-8ed6-7350dfcaa5c0" alt="git" width="40" height="40" style="max-width:100%;">
 <br>
 <h3>✨ <strong>Contact</strong> </h3>
 <a href=https://www.linkedin.com/in/victor-emanuel-9911ba1a6/" rel="nofollow">
