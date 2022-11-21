@@ -28,7 +28,7 @@
 <a href="https://git-scm.com/" rel="nofollow">
     <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;">
 </a>
-<img src="https://repository-images.githubusercontent.com/240076753/32a00780-916e-11ea-8ed6-7350dfcaa5c0" alt="git" width="40" height="40" style="max-width:100%;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="git" width="40" height="40" style="max-width:100%;">
 <br>
 <h3>✨ <strong>Contact</strong> </h3>
 <a href=https://www.linkedin.com/in/victor-emanuel-9911ba1a6/" rel="nofollow">
