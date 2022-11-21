@@ -28,7 +28,7 @@
 <a href="https://git-scm.com/" rel="nofollow">
     <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;">
 </a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="git" width="40" height="40" style="max-width:100%;">
+<img src="https://e7.pngegg.com/pngimages/820/213/png-clipart-power-bi-business-intelligence-microsoft-corporation-data-visualization-data-analysis-power-bi-dashboard-templates.png" alt="git" width="40" height="40" style="max-width:100%;">
 <br>
 <h3>✨ <strong>Contact</strong> </h3>
 <a href=https://www.linkedin.com/in/victor-emanuel-9911ba1a6/" rel="nofollow">
