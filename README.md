@@ -28,7 +28,7 @@
 <a href="https://git-scm.com/" rel="nofollow">
     <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;">
 </a>
-<a href="https://git-scm.com/" rel="nofollow">
+<a href="https://powerbi.microsoft.com/pt-br/" rel="nofollow">
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="PowerBI" width="50" height="50" style="max-width:100%;">
 </a>
 <a href="https://learn.microsoft.com/pt-br/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" rel="nofollow">
